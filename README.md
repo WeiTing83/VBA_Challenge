@@ -12,7 +12,7 @@
 ## Result:Compare the stocks in 2017 and 2018
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-1.In 2017, most of stocks are growth, except for TERP. However, in the year of 2018, most of stocks are decreased in price, except for ENPH and RUN. However, this data can’t reflect which stock is better because we need to compare their financial conditions within two years. Total volume doesn’t have a correlation with return value. It probably needs to evaluate volatility of stock prices in the whole year.
+1.In 2017, most of stocks are growth, except for TERP. However, in the year of 2018, most of stocks are decreased in price, except for ENPH and RUN. These data can’t reflect which stock is better because we need to compare their financial conditions within two years. Total volume doesn’t have a correlation with return value. It probably needs to evaluate volatility of stock prices in the whole year.
 
 2.Original script only spent 0.02 seconds to run its code, but it doesn’t calculate all the data. After refactored script, in each of 2017 and 2018 year spread sheet, it spends 0.67 and 0.69 seconds to output the results.
 
